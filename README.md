@@ -1,0 +1,2 @@
+# GreenDaoRxJava2
+GreenDao中的rx模块是基于rxjava1编写的，以上源码的通过rxjava2进行改进，可直接引入到工程中使用（确保依赖了GreenDao和RxJava2）
